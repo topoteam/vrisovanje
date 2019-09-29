@@ -2,17 +2,15 @@
 Vrisovanje
 ==========
 
-Dobrodošel na strani kjer lahko izveš vse o vrisovanju!
+Zdravo! Tole poskuša biti stran kjer lahko izveš (skoraj) vse o vrisovanju!
+Najbrž te zanima eno od naslednjih poglavij:
 
-Vrisovanje je igra kjer reseuje topografskih nalog. Vsaka uganka je
-podana v obliki naloge. Cilj vsake naloge je dolociti polozaj
-(koordinate) neke tocke na zemljevidu.
+.. toctree::
+   :maxdepth: 2
 
-Če nimaaš pojma kaj vrisovanje sploh je, začni s
-
-
-- Tipi nalog
-- Arhiv nalog za učenje
-- Arhiv nalog s tekmovanj
-- Kako lahko prispevam
-
+   kaj_je_to
+   ucne_naloge
+   kako_uciti
+   arhiv
+   tipi_nalog
+   prispevaj
